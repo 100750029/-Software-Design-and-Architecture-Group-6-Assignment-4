@@ -6,7 +6,7 @@
 
 [Exercise 1 Code File](https://github.com/100750029/-Software-Design-and-Architecture-Group-6-Assignment-4/blob/main/Exercise%201/CompanyProject.zip)
 
-[Exercise 2 Output](https://github.com/100750029/-Software-Design-and-Architecture-Group-6-Assignment-4/tree/main/Exercise%201/Output)
+[Exercise 1 Output](https://github.com/100750029/-Software-Design-and-Architecture-Group-6-Assignment-4/tree/main/Exercise%201/Output)
 
 [Exercise 2](https://github.com/100750029/-Software-Design-and-Architecture-Group-6-Assignment-4/tree/main/Exercise%202)
 
